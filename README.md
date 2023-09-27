@@ -12,7 +12,7 @@
 </div>
 ---
 
-![An image of @ahsanabc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahsanabc)](https://holopin.io/@ahsanabc)
+![An image of @ahsanabc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahsanabc)
 
 <details open="">
 <summary>
